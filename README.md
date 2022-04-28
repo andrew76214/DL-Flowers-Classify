@@ -12,3 +12,5 @@ dataset -> https://drive.google.com/drive/folders/1ximR0bX4l9Zc7fsBC-sb7j9InWx8w
  - python 3.10
  - cuDNN 8.1
  - CUDA 11.2
+ ---
+[機器學習.pdf](https://github.com/andrew76214/ML-MidternProject/files/8582303/default.pdf)
