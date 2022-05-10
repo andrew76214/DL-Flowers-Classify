@@ -12,5 +12,9 @@ dataset -> https://drive.google.com/drive/folders/1QLhDDluLqu34wbe_DWcGXQC3C5bCv
  - python 3.10
  - cuDNN 8.1
  - CUDA 11.2
+#### Models
+ - VGG16/VGG19
+ - SimpleCNN
+ - ensemble VGG16/VGG19 and SimpleCNN
  ---
 [機器學習.pdf](https://github.com/andrew76214/ML-MidternProject/files/8582303/default.pdf)
