@@ -14,7 +14,8 @@ dataset -> https://drive.google.com/drive/folders/1QLhDDluLqu34wbe_DWcGXQC3C5bCv
  - CUDA 11.2
 #### Models
  - VGG16/VGG19
+ - ResNet101V2
  - SimpleCNN
- - ensemble VGG16/VGG19 and SimpleCNN
+ - ensemble VGG16, ResNet101V2 and SimpleCNN
  ---
 [機器學習.pdf](https://github.com/andrew76214/ML-MidternProject/files/8582303/default.pdf)
