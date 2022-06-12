@@ -18,5 +18,7 @@ dataset -> https://drive.google.com/drive/folders/1QLhDDluLqu34wbe_DWcGXQC3C5bCv
  - SimpleCNN
  - Ensemble VGG16, ResNet101V2 and SimpleCNN
  ---
+ ![1](https://user-images.githubusercontent.com/61071600/173221520-a8fc94ac-69c4-4ebd-9e8c-ac9f5873677e.jpg)
+ ---
  slides:
 [機器學習.pdf](https://github.com/andrew76214/ML-MidternProject/files/8582303/default.pdf)
