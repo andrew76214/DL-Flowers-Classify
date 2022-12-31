@@ -1,7 +1,7 @@
 # Flowers-Classify
 資工二 109321005 楊樸霖 / 資工二 109321020 沈奕菱 / 資工二 109321041 劉彥汝
 
-dataset -> https://drive.google.com/drive/folders/1QLhDDluLqu34wbe_DWcGXQC3C5bCvSqA?usp=sharing
+dataset -> https://www.kaggle.com/datasets/l3llff/flowers
 ### Enviroment
 #### Hardware 
  - GPU: Nivdia GTX 1660 OC 6G
